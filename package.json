@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-hexo": "^1.0.3"
+  },
+  "dependencies": {
+    "md5": "^2.2.1",
+    "object-assign": "^4.1.0"
+  },
+  "name": "hexo-authors",
+  "description": "Add author information to hexo blog posts.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argelius/hexo-authors.git"
+  },
+  "keywords": [
+    "hexo",
+    "authors"
+  ],
+  "author": "Andreas Argelius <andreas@argeli.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/argelius/hexo-authors/issues"
+  },
+  "homepage": "https://github.com/argelius/hexo-authors#readme"
+}
